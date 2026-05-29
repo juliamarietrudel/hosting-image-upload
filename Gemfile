@@ -4,6 +4,7 @@ gem "sprockets-rails"
 gem "bootstrap", "~> 5.3"
 gem "simple_form"
 gem "sassc-rails"
+gem "dotenv-rails"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 8.1.3"
